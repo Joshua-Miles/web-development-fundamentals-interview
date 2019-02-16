@@ -1,5 +1,7 @@
 # Web Development Fundamentals Interview
 
+**These are the interview instructions and rubric. You should not need to share this README with a student**
+
 An interview template to use when determining whether a student has properly prepared themselves for the bootcamp since passing their technical interview.
 
 Question 1 is completely theoretical, mostly an opportunity to catch any major red flags.
