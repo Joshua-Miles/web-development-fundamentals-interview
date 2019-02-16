@@ -33,7 +33,7 @@ Do not use these terms in any case:
 * move your cursor to (some position in code)
 * write: (some code)
 
-If they can't complete this deliverable on their own, they are a possible candidate for defferment. If nothing else, we will want to check in early with this student to avoid them falling farther behind. The student should be informed that they do not possess recommended proficiency, and that the next few days will be critical for their future success in the course.
+If they can't complete this deliverable on their own, they are a possible candidate for defferment. If nothing else, we will want to check in early with this student to avoid them falling further behind. The student should be informed that they do not possess recommended proficiency, and that the next few days will be critical for their future success in the course.
 
 ### Question 4
 This is the easiest of the questions and should be completed with **no assstance**, other than clarifying the question. 
