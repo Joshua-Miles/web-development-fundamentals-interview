@@ -26,7 +26,7 @@ heroes = [
 #    returns the oldest hero from the array.
 
 # 3. Write a function which, given the above array of heroes and the name of a 
-#    hero, returns the age of that hero.
+#    hero as arguments, returns the age of that hero.
 
 
 require 'pry'
