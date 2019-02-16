@@ -28,6 +28,9 @@ heroes = [
 # 3. Write a function which, given the above array of heroes and the name of a 
 #    hero as arguments, returns the age of that hero.
 
+# 4. Write a function which, given the above array of heroes, returns the name of  
+#    the first hero in the array
+
 
 require 'pry'
 
