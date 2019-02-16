@@ -1,7 +1,7 @@
 
 # 1. What is an Array, what is a Hash, and how are they different?   
 
-# For questions 2 and 3, consider the following array of hashes.
+# For questions 2 and 3, consider the following array of hashes:
 
 heroes = [
     {
